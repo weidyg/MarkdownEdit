@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "vditor@3.9.6",
+      "destination": "wwwroot/vditor/",
+      "files": [
+        "index.min.js",
+        "index.min.css"
+      ]
+    }
+  ]
+}
